@@ -2,6 +2,10 @@
 
 **Discover Yourself** is a web application that lets users chat with three distinct spiritual personas — **Kabir Das**, **Guru Nanak Dev Ji**, and **Jiddu Krishnamurti**. Dive into thought-provoking conversations and explore different philosophical perspectives with a clean and intuitive interface.
 
+## 🔗 Live Demo
+
+👉 [Click here to try Discover Yourself](https://your-live-demo-link.com)
+
 ## ✨ Features
 
 - 🔄 Toggle seamlessly between 3 chatbot personas
