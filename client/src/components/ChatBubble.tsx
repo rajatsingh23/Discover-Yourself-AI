@@ -87,7 +87,7 @@ export function ChatBubble({guide}: ChatBubbleProps) {
                         "Content-Type": 'application/json'
                     }
                 }
-                const response = await fetch("https://discover-yourself-ai-backend.onrender.com", options);
+                const response = await fetch("https://discover-yourself-ai-backend.onrender.com/gemini", options);
                 const data = await response.text();
                 // setMessages(data);
                 if(guide === "kabir das"){
