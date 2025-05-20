@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Click here to try Discover Yourself](https://your-live-demo-link.com)
+👉 [Click here to try Discover Yourself](https://discover-yourself-ai.onrender.com/)
 
 ## ✨ Features
 
@@ -66,5 +66,10 @@ PORT=8000
 ```bash
 npm install
 npm run dev
+```
+
+### 5. Inside ChatBubble component change the server url to
+```bash
+http://localhost:8000/gemini
 ```
 
